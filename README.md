@@ -8,5 +8,5 @@
 </div>
 
 ### 💿 Tecnologias
-![Tecnologias](https://skillicons.dev/icons?i=java,spring,maven,html,css,js,postgres,mysql,&perline=3)
+![Tecnologias](https://skillicons.dev/icons?i=java,spring,html,css,js,react,postgres,mysql,&perline=2)
  
