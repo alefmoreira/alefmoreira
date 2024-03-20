@@ -9,6 +9,10 @@
 ![Tecnologias](https://skillicons.dev/icons?i=git,github,docker,idea,vscode)
 <br>
 ![Tecnologias](https://skillicons.dev/icons?i=html,css,js,react)
+
+
+![snake gif](https://github.com/alefmoreira/alefmoreira/blob/output/github-contribution-grid-snake.svg)
+
 ### ⚙️ GitHub Analytics
 
 <table>
